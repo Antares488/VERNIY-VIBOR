@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="37px" height="24px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3.433 2.28"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#A8A8A9;stroke-width:0.093;stroke-miterlimit:22.9256}
+    .str2 {stroke:#CC9778;stroke-width:0.093;stroke-miterlimit:22.9256}
+    .str0 {stroke:#DBA71F;stroke-width:0.093;stroke-miterlimit:22.9256}
+    .str5 {stroke:#A8A8A9;stroke-width:0.093;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str3 {stroke:#CC9778;stroke-width:0.093;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str4 {stroke:#DBA71F;stroke-width:0.093;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1689954194576">
+   <path class="fil0 str0" d="M0.387 1.311l0.802 0c0.052,0 0.093,0.02 0.125,0.052l0.001 0.001c0.03,0.03 0.049,0.069 0.06,0.109l0.153 0.542c0.004,0.015 0.006,0.029 0.006,0.042 0,0.045 -0.019,0.084 -0.048,0.115 -0.024,0.025 -0.057,0.044 -0.091,0.053 -0.017,0.005 -0.035,0.008 -0.053,0.008l-1.103 0c-0.017,0 -0.034,-0.003 -0.052,-0.008 -0.034,-0.009 -0.067,-0.028 -0.092,-0.053 -0.029,-0.031 -0.048,-0.07 -0.048,-0.115 0,-0.013 0.002,-0.026 0.006,-0.041l0.148 -0.542c0.011,-0.041 0.03,-0.081 0.06,-0.111 0.003,-0.002 0.006,-0.005 0.008,-0.007 0.032,-0.028 0.07,-0.045 0.118,-0.045z"/>
+   <path class="fil0 str1" d="M2.239 1.311l0.802 0c0.052,0 0.093,0.02 0.125,0.052l0.001 0.001c0.03,0.03 0.049,0.069 0.06,0.109l0.153 0.542c0.004,0.015 0.006,0.029 0.006,0.042 0,0.045 -0.019,0.084 -0.048,0.115 -0.024,0.025 -0.057,0.044 -0.091,0.053 -0.017,0.005 -0.035,0.008 -0.053,0.008l-1.103 0c-0.017,0 -0.034,-0.003 -0.052,-0.008 -0.034,-0.009 -0.067,-0.028 -0.091,-0.053 -0.03,-0.031 -0.049,-0.07 -0.049,-0.115 0,-0.013 0.002,-0.026 0.006,-0.041l0.148 -0.542c0.011,-0.041 0.03,-0.081 0.06,-0.111 0.003,-0.002 0.006,-0.005 0.008,-0.007 0.032,-0.028 0.07,-0.045 0.118,-0.045z"/>
+   <path class="fil0 str2" d="M1.291 0.047l0.802 0c0.052,0 0.093,0.02 0.125,0.052l0.001 0.001c0.029,0.03 0.048,0.069 0.06,0.109l0.153 0.542c0.004,0.014 0.006,0.028 0.006,0.042 0,0.044 -0.019,0.084 -0.048,0.115 -0.025,0.024 -0.057,0.043 -0.091,0.053 -0.017,0.005 -0.035,0.008 -0.053,0.008l-1.104 0c-0.016,0 -0.033,-0.003 -0.051,-0.008 -0.035,-0.009 -0.067,-0.028 -0.092,-0.053 -0.029,-0.031 -0.048,-0.07 -0.048,-0.115 0,-0.013 0.001,-0.027 0.006,-0.041l0.148 -0.542c0.011,-0.041 0.03,-0.081 0.06,-0.111 0.003,-0.003 0.005,-0.005 0.008,-0.007 0.031,-0.028 0.07,-0.045 0.118,-0.045z"/>
+   <polyline class="fil1 str3" points="1.324,0.275 1.197,0.74 2.191,0.74 "/>
+   <polyline class="fil1 str4" points="0.412,1.55 0.285,2.015 1.28,2.015 "/>
+   <polyline class="fil1 str5" points="2.283,1.55 2.155,2.015 3.15,2.015 "/>
+  </g>
+ </g>
+</svg>
